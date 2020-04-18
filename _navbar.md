@@ -1,3 +1,3 @@
 - [GitHub](https://github.com/BredyAK/KamiCraft)
-- [玩家群组](/community/groups)
-- [更新日志](/changelog)
+- [群组](/community/groups)
+- [日志](/changelog)
