@@ -1,6 +1,6 @@
 ![KamiCraft](./assets/images/tutorials/big-torii.jpg)
 
-欢迎造访KamiCraft Wiki，更多内容正在持续更新中。愿神明指引你前进。
+欢迎造访KamiCraft Wiki，更多内容正在持续更新中。
 
 [白名单申请](tutorials/whitelist) | [常见问题](tutorials/faq) | [约定及规则](tutorials/rules) | [常用指令](tips/commands) | [玩家群组](community/groups) | [参与修订](community/maintain)
 
