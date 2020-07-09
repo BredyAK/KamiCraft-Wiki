@@ -2,11 +2,11 @@
 
 欢迎造访KamiCraft Wiki，更多内容正在持续更新中。
 
-[白名单申请](tutorials/whitelist) | [常见问题](tutorials/faq) | [约定及规则](tutorials/rules) | [常用指令](tips/commands) | [玩家群组](community/groups) | [参与修订](community/maintain)
+[常见问题](tutorials/faq) | [约定及规则](tutorials/rules) | [常用指令](tips/commands) | [玩家群组](community/groups) | [参与修订](community/maintain)
 
 ### 做好准备
 
-!> 您需要持有合法的正版「Minecraft Java Edition」才能加入游戏，游戏版本需使用`1.15.2`，**暂时不接受其他任何版本加入游戏**。
+!> 您需要持有合法的正版「Minecraft Java Edition」才能加入游戏，游戏版本需使用`1.16.1`，**暂时不接受其他任何版本加入游戏**。
 
 如果未持有「Minecraft Java Edition」，可前往[Minecraft官网](https://www.minecraft.net/zh-hans/store/minecraft-java-edition/)进行购买。
 
