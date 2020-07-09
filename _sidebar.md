@@ -1,5 +1,4 @@
 - 入门
-  - [白名单申请](tutorials/whitelist.md)
   - [做好准备](tutorials/basictips.md)
   - [常见问题](tutorials/faq.md)
   - [约定及规则](tutorials/rules.md)
