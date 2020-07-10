@@ -12,7 +12,7 @@
 
 ### 加入服务器
 
-当您完成[白名单申请](tutorials/whitelist)并获得批准后，才能加入KamiCraft游玩。服务器地址：
+准备好启程了吗？服务器IP：
 
     play.kamicraft.com
 
