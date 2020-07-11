@@ -11,3 +11,8 @@
 - 插件Essentials已更新至`2.18.0.0`版本
 - 插件AsyncWorldEdit已更新至`3.7.5`版本
 - 插件WorldEdit已更新至`7.2.0 Beta 2`版本
+
+> 2020年7月11日
+
+- 新增称号“巧夺天工”，可通过建造优秀建筑获得，仅支持人工授予
+- 火焰在主世界(world)不可传播，在下届(world_nether)和末地(world_the_end)会正常传播
