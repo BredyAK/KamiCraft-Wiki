@@ -1,4 +1,3 @@
-* [Home](/)
-* 教程
-  * [Guide](/guide.md "The greatest guide in the world")
-  * [Tips](/tips.md "The best tips for your trip")
+* 基础知识
+  * [新手的第一天](/guide.md "新手的第一天")
+  * [必备常识](/tips.md "必备常识")
