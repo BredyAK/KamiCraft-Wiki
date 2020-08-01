@@ -1,20 +1,4 @@
-- 入门
-  - [做好准备](tutorials/basictips.md)
-  - [常见问题](tutorials/faq.md)
-  - [约定及规则](tutorials/rules.md)
-  - [第一天](tutorials/start.md)
-- 基础知识
-  - [常用指令](tips/commands.md)
-  - [世界维度](tips/worlds.md)
-  - [庄园](tips/manors.md)
-  - [关于死亡](tips/death.md)
-  - [奉纳箱](tips/saisen.md)
-  - [经商](tips/economy.md)
-  - [等级](tips/levels.md)
-  - [绘马](tips/ema.md)
-- 社区
-  - [玩家群组](community/groups.md)
-  - [论坛](community/forum.md)
-  - [社区维护](community/maintain.md)
-  - [推荐资源](community/featured.md)
-  - [投稿](community/contribute.md)
+* [Home](/)
+* 教程
+  * [Guide](/guide.md "The greatest guide in the world")
+  * [Tips](/tips.md "The best tips for your trip")

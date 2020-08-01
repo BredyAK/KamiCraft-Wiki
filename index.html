@@ -10,40 +10,34 @@
 </head>
 <body>
   <div id="app">加载中...</div>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github/index.js"></script>
   <script>
     window.$docsify = {
-      loadNavbar: true,
-      loadSidebar: true,
-      subMaxLevel: 2,
-      auto2top: true,
-      homepage: 'home.md',
       name: 'KamiCraft Wiki',
-      themeColor: '#FF7070',
+      repo: 'https://github.com/KamiCraft/Wiki',
+      loadNavbar: true,
       mergeNavbar: true,
-      formatUpdated: '{YYYY}/{MM}/{DD} {HH}:{mm}',
+      loadSidebar: true,
+      auto2top: true,
+      subMaxLevel: 2,
+      logo: '/Assets/Images/logo-head.png',
+      themeColor: '#FF6666',
       notFoundPage: true,
-      search: 'auto',
+      formatUpdated: '{YYYY}/{MM}/{DD} {HH}:{mm}',
       search: {
         maxAge: 86400000,
         paths: 'auto',
         placeholder: '搜索...',
-        noData: '未找到结果 :(',
-        namespace: 'kamicraftwiki'
-      },
-
-      plugins: [
-        EditOnGithubPlugin.create(
-          'https://github.com/BredyAK/KamiCraft-Wiki/blob/master/',
-          null,
-          '编辑本页'
-        )
-      ]
+        noData: '无搜索结果!',
+        depth: 2,
+        hideOtherSidebarContent: true,
+        namespace: 'wiki'
+      }
     }
   </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
 </body>
 </html>

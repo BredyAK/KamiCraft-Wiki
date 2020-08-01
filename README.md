@@ -1,1 +1,3 @@
-Wiki持续更新中，欢迎加入玩家QQ群343479760参与维护。
+# Headline
+
+> An awesome project.
