@@ -6,9 +6,14 @@
 
 ### 开眼看世界
 
-您默认出生于名为“出生岛”的空中小岛上，岛上遍布有关玩法的简要介绍。当您没有设置家时死亡，或者使用`/spawn`指令时，您都能重返这座小岛。**直接跳下岛屿很可能会导致死亡**，您将丢失所有经验，身上的所有物品则被存放于死亡地点的保险箱内10分钟。超过存放时间后，保险箱将自动损坏，其中的物品将会自然掉落到地面，届时你的物品很有可能会被<a class="tooltip" href="#/Tutorials/firstday?id=clearlagg">清道夫</a>移除。
+您默认出生于名为“出生岛”的空中小岛上，岛上遍布有关玩法的简要介绍。当您没有设置家时死亡，或者使用`/spawn`指令时，您都能重返这座小岛。**直接跳下岛屿将导致您摔落死亡**，如此将丢失所有经验，身上的所有物品则被存放于死亡地点的保险箱内**10分钟**。超过存放时间后，保险箱将自动损坏，其中的物品将会自然掉落到地面，你的物品则很有可能会被<a class="tooltip" href="#/Tutorials/firstday?id=clearlagg">清道夫</a>移除。
 
 ?> <span id="clearlagg" style="font-weight:bold">清道夫：</span>服务器的自动清理插件，俗称“扫地大妈”，除了会定期移除地面掉落物外，还会在服务器过载时通过清除密集实体、放慢漏斗传输物品速度等操作来释放内存。
+
+在确保您已熟悉出生岛上的所有告示牌提示后，您可以通过<a class="tooltip" href="#/Tutorials/firstday?id=menu">快捷菜单</a>来离开出生岛，或使用`/tpr`传送到距离出生点1000<a class="tooltip" href="#/Tutorials/firstday?id=meter">米</a>外、3000米内的随机地点。您不会被传送至冷水海洋（cold_ocean）、冷水深海（deep_cold_ocean）、封冻深海（deep_frozen_ocean）、温水深海（deep_lukewarm_ocean）、深海（deep_ocean）、暖水深海（deep_warm_ocean）、封冻深海（frozen_ocean）、冻河（frozen_river）、温水海洋（lukewarm_ocean）、海洋（ocean）、河流（river）、暖水海洋（warm_ocean）生物群系。
+
+?> <span id="meter" style="font-weight:bold">快捷菜单：</span>当仰角为90度（垂直望向天空）时按下潜行键（默认为`shift`键）即可打开快捷菜单。
+?> <span id="meter" style="font-weight:bold">米：</span>1米 = 1方块距离。
 
 ### 欢迎语
 
