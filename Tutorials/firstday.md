@@ -21,7 +21,7 @@
 温水海洋|lukewarm_ocean|海洋|ocean
 河流|river|暖水海洋|warm_ocean
 
-?> <span id="meter" style="font-weight:bold">快捷菜单：</span>当仰角为90度（垂直望向天空）时按下潜行键（默认为`shift`键）即可打开快捷菜单。<br/><span id="meter" style="font-weight:bold">米：</span>1米 = 1方块距离。
+?> <span id="menu" style="font-weight:bold">快捷菜单：</span>当仰角为90度（垂直望向天空）时按下潜行键（默认为`shift`键）即可打开快捷菜单。<br/><span id="meter" style="font-weight:bold">米：</span>1米 = 1方块距离。
 
 ### 欢迎语
 
