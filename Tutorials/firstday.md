@@ -12,15 +12,19 @@
 
 在确保您已熟悉出生岛上的所有告示牌提示后，您可以通过<a class="tooltip" href="#/Tutorials/firstday?id=menu">快捷菜单</a>来离开出生岛，或使用`/tpr`传送到距离出生点1000<a class="tooltip" href="#/Tutorials/firstday?id=meter">米</a>外、3000米内的随机地点。您不会被传送至以下生物群系：
 
+<div style="text-align:center">
 生物群系名称|生物群系ID|生物群系名称|生物群系ID
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|冷水海洋|cold_ocean|冷水深海|deep_cold_ocean|封冻深海|deep_frozen_ocean|
-|温水深海|deep_lukewarm_ocean|深海|deep_ocean|暖水深海|deep_warm_ocean|
-|封冻深海|frozen_ocean|冻河|frozen_river|温水海洋|lukewarm_ocean|
-|海洋|ocean|河流|river|暖水海洋|warm_ocean|
+:--:|:--:|:--:|:--:
+冷水海洋|cold_ocean|冷水深海|deep_cold_ocean
+封冻深海|deep_frozen_ocean|温水深海|deep_lukewarm_ocean
+深海|deep_ocean|暖水深海|deep_warm_ocean
+封冻深海|frozen_ocean|冻河|frozen_river
+温水海洋|lukewarm_ocean|海洋|ocean
+河流|river|暖水海洋|warm_ocean
+</div>
 
 ?> <span id="meter" style="font-weight:bold">快捷菜单：</span>当仰角为90度（垂直望向天空）时按下潜行键（默认为`shift`键）即可打开快捷菜单。
-?> <span id="meter" style="font-weight:bold">米：</span>1米 = 1方块距离。
+<span id="meter" style="font-weight:bold">米：</span>1米 = 1方块距离。
 
 ### 欢迎语
 
