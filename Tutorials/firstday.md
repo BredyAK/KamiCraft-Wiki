@@ -1,4 +1,4 @@
-![](https://shop.io.mi-img.com/app/shop/img?id=shop_e21749a956fe21ac7598b1167d63b933.png)
+![](https://ae01.alicdn.com/kf/He8a3abe966a34d21b6931cd0b5277f3d1.jpg)
 
 ### 欢迎语
 
