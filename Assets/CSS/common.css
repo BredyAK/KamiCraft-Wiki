@@ -4,7 +4,8 @@
   position: relative;
   display: inline-block;
   text-decoration: none;
-  color: black;
+  font-weight: normal;
+  color: black !important;
   border-bottom: 1px dotted black;
 }
 /*Hover提示 结束*/
