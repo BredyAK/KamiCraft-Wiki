@@ -1,4 +1,4 @@
-![巨大鸟居](https://ae01.alicdn.com/kf/Hedf2cd0ec99d422aa1967da1ced283a8k.jpg "巨大鸟居")
+![](https://ae01.alicdn.com/kf/Hedf2cd0ec99d422aa1967da1ced283a8k.jpg)
 
 ### 终于等到你
 
