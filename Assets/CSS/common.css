@@ -3,6 +3,8 @@
   cursor:help;
   position: relative;
   display: inline-block;
+  text-decoration: none;
+  color: black;
   border-bottom: 1px dotted black;
 }
 /*Hover提示 结束*/
