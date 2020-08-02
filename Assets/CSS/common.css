@@ -4,7 +4,7 @@
   position: relative;
   display: inline-block;
   text-decoration: none;
-  font-weight: normal;
+  font-weight: normal !important;
   color: black !important;
   border-bottom: 1px dotted black;
 }
