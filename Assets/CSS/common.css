@@ -1,4 +1,4 @@
-/*工具提示 开始*/
+/*Hover提示 开始*/
 .tooltip {
   position: relative;
   display: inline-block;
@@ -34,4 +34,4 @@
   visibility: visible;
   opacity: 1;
 }
-/*工具提示 结束*/
+/*Hover提示 结束*/
