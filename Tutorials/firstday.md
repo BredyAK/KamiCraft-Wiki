@@ -49,6 +49,8 @@
 
 <details>
 <summary><b>支持锁定的方块列表（点击展开）</b></summary>
+
+```
 * 铁砧
 * 木桶
 * 信标
@@ -65,6 +67,8 @@
 * 唱片机
 * 烟熏炉
 * 陷阱箱
+```
+
 </details>
 
 ![木牌锁](https://shop.io.mi-img.com/app/shop/img?id=shop_5f017aa21660ce5875f92b252211ace1.jpeg)
